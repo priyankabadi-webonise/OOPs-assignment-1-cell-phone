@@ -12,12 +12,15 @@ example 1
 
 
 webonise@webonise-desktop:~$ java Phone
+
 Choose mobile model
+
 1.Android 
 2.Apple
 3.Nothing
 1
 following are the Android phone choose any one
+
 1.samsung galaxy
 2.oppo f1
 3.oppo f3
@@ -37,6 +40,7 @@ Memmory card slot: available
 
 
 choose operation to perform 
+
 1.make call
 2.send SMS
 3.send MMS
@@ -58,12 +62,15 @@ example 2
 
 
 webonise@webonise-desktop:~$ java Phone
+
 Choose mobile model
+
 1.Android 
 2.Apple
 3.Nothing
 2
 following are the Apple company phones choose any one
+
 1.iphone s2
 2.iphone s3
 3.iphone s6
@@ -83,6 +90,7 @@ Memmory card slot: available
 
 
 choose operation to perform 
+
 1.make call
 2.send SMS
 3.send MMS
