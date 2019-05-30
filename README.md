@@ -16,41 +16,65 @@ webonise@webonise-desktop:~$ java Phone
 Choose mobile model
 
 1.Android 
+
 2.Apple
+
 3.Nothing
+
 1
+
 following are the Android phone choose any one
 
 1.samsung galaxy
+
 2.oppo f1
+
 3.oppo f3
+
 4.samsung note1
+
 5.one-plus
+
 6.nothing
+
 
 4
 
 
 _____Features______
+
 play store available
+
 potrait mode
+
 32 mp camera dual
+
 sim slot: dual
+
 Memmory card slot: available
+
 
 
 choose operation to perform 
 
+
 1.make call
+
 2.send SMS
+
 3.send MMS
+
 4.exit
+
 1
 
 
 please select the SIM No.to call..
+
 1.SIM 1
+
 2.SIM 2
+
 2
 
 
@@ -58,49 +82,78 @@ call made... by sim2
 
 
 
+
+
 example 2
+
 
 
 webonise@webonise-desktop:~$ java Phone
 
 Choose mobile model
 
+
 1.Android 
+
 2.Apple
+
 3.Nothing
+
 2
 following are the Apple company phones choose any one
 
+
 1.iphone s2
+
 2.iphone s3
+
 3.iphone s6
+
 4.iphone s8
+
 5.iphone X
+
 6.nothing
+
 
 4
 
 
 _____Features______
 apple store available
+
 16 mp camera
+
 potrait mode
+
 sim slot: dual
+
 Memmory card slot: available
 
 
-choose operation to perform 
+
+choose operation to perform
+ 
 
 1.make call
+
 2.send SMS
+
 3.send MMS
+
 4.exit
+
 2
 enter your sms
+
 hello
+
 ******this was your sms*******
+
 hello
+
 ************
+
 
 
 webonise@webonise-desktop:~$ 
