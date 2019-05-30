@@ -5,6 +5,9 @@ In this program the user can choose a phone according to the it's type and model
 
 It is created using the classes called "CellPhone" and "NewPhone".where CellPhone is an Abstract class providing one abstract method "make_call".Here the NewPhone extends the CellPhone class to inheret its properties and to define abstract method.The NewPhone class have methods for the displaying the features about selected phone.
 
+
+In main method switch case statement is used to track the user choice and NewPhone class used to create object according to selected phone model.
+
 example 1
 
 
@@ -21,6 +24,7 @@ following are the Android phone choose any one
 4.samsung note1
 5.one-plus
 6.nothing
+
 4
 
 
@@ -66,6 +70,7 @@ following are the Apple company phones choose any one
 4.iphone s8
 5.iphone X
 6.nothing
+
 4
 
 
