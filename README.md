@@ -156,7 +156,97 @@ hello
 
 
 
-webonise@webonise-desktop:~$ 
+Choose mobile model
+
+1.Android 
+
+2.Apple
+
+3.Button Phones
+
+4.nothing
+
+3
+
+following are the Button phones choose any one
+
+1.Reliance LG RD2030
+
+2.Nokia Asha
+
+3.nothing
+
+1
+
+
+
+_____Features______
+
+ none 
+
+sim slot: None
+
+choose operation to perform 
+
+1.make call
+
+2.send SMS
+
+3.exit
+
+1
+
+calling in progress....
+
+Choose mobile model
+
+1.Android 
+
+2.Apple
+
+3.Button Phones
+
+4.nothing
+
+3
+
+following are the Button phones choose any one
+
+1.Reliance LG RD2030
+
+2.Nokia Asha
+
+3.nothing
+
+2
+
+
+_____Features______
+
+camera 0.3 mp
+
+sim slot: single
+
+choose operation to perform 
+
+1.make call
+
+2.send SMS
+
+3.exit
+
+2
+enter your sms
+
+fdfg
+
+******this was your sms*******
+
+fdfg
+
+************
+
+
 
 
 # OOPs-assignment-1--cell-phone

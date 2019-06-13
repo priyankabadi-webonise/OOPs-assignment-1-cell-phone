@@ -174,14 +174,17 @@ public class Phone{
 		}
 		if(type_of_phone==3){
 					n1.display_features();//display features
+					System.out.println("choose operation to perform \n1.make call\n2.send SMS\n3.exit");
+					operation_selected=scan.nextInt();//option to select operation to perform
 				}
 				else{
 					n.display_features();//display features
+					System.out.println("choose operation to perform \n1.make call\n2.send SMS\n3.send MMS\n4.exit");
+					operation_selected=scan.nextInt();//option to select operation to perform
 				}
 		
 					
-		System.out.println("choose operation to perform \n1.make call\n2.send SMS\n3.send MMS\n4.exit");
-		operation_selected=scan.nextInt();//option to select operation to perform
+		
 		switch(operation_selected){
 			case 1:
 				if(type_of_phone==3){
@@ -203,7 +206,6 @@ public class Phone{
 				}
 			case 3:
 			if(type_of_phone==3){
-				n1.make_mms();//make_mms function
 				break;
 			}
 			else{
