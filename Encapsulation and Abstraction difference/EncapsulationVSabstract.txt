@@ -1,0 +1,41 @@
+		Encapsulation and abstraction difference
+
+
+1 Abstraction - it collects the common properties from the various objects and hides it beacuse it is focus on providing direct results without its implementation details.
+1 Encapsulation - here it is used to bind the methods and data for specific object and hides it data and methods from the different objects.
+
+2 Abstraction- it uses the abstract class and interface and they get extended by the different classes.
+2 Encapsulation - it uses the scope defination to hide its data and methods that is public protected and private
+
+3 Adstraction- it only gives the relevent data to the class 
+3 Encapsulation - it protects specific objects data from diferent object.
+
+4 Abstraction- it reduces the complexity by hiding the unnecessary code implementation 
+4 Encapsulation -it wraps the data and function to reduce complexity for an class.
+
+pesudo code:
+1 encapsulation : 
+class abc {
+//we define the scope of variables and functions  
+private: member variables 
+protected: member functions
+}
+
+
+2 Abstraction :
+Interface abc{
+	public void print_name(String name);
+}
+
+// both classes can implement abc to define there own print_name function
+
+class Employee implements abc{
+	public void print_name(String name){
+		System.out.println("Employee name :"+name);
+	}
+}
+class Intern implements abc{
+	public void print_name(String name){
+		System.out.println("Intern name :"+name);
+	}
+}
