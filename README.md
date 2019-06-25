@@ -1,4 +1,4 @@
-# OOPs-assignment-1--cell-phone
+# OOPs-assignment-1-cell-phone
 
 In this program the user can choose a phone according to the it's type and model and perform some common operations. It will display very first on screen option for selecting the type(eg. Android or Apple) and inturn it will diplay list of models to select like samsung note, iphone s2,oppo f1 etc.where after selecting the model it will display to user the information about the selected phone.then it continue to diplay options to perform call, send mms, send sms operations. 
 
